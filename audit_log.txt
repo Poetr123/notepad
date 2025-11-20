@@ -1,3 +1,2 @@
-epoch:9	DELETE	3	Ikan	direct
-unknown_time	DELETE	2	ikan	unknown_time
 DELETE	1	Rahasia
+
